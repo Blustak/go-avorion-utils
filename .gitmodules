@@ -1,0 +1,3 @@
+[submodule "go-avorion-trader"]
+	path = go-avorion-trader
+	url = git@github.com:Blustak/go-avorion-trader.git
